@@ -10,10 +10,11 @@ Install my-project with npm
 ```bash
 git clone https://github.com/Dani-op/Json-data-to-Qrcode-.git
 ```
+force install has been used becasue react-qr-svg package has been deprecated
 
 ```bash
   cd Json-data-to-Qrcode- 
-  npm install 
+  npm install -f
 ```
 To Run the project:
 ```bash
